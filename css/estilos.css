@@ -1,0 +1,494 @@
+body{
+    
+    font-family: Montserrat, sans-serif; 
+    margin: 0px;
+    
+      
+    
+}
+ 
+#contacto{
+    background-image: url('../images/fondo-contacto.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.nav-link.active{
+    border: 2px solid red;
+    border-radius: 20px;
+    color: #202020;
+}
+
+.btn-rojo{
+    background-color: #E20000; 
+    color: white;
+    font-weight: 100;
+    border: none;
+    border-radius: 15px;
+    
+    
+    
+}
+.btn-rojo2{
+    background-color: #E20000;
+    color: white;
+    border: 0px;
+    border-radius: 20px;
+}
+.btn-rojo2:hover{
+    background-color: #370a6d;
+    color:white;
+}
+.btn-rojo:hover{
+    background-color: #370a6d;
+    color:white;
+
+}
+.btn-blanco:hover{
+    background-color: #370a6d;
+    color:white;
+
+}
+.cohete img{
+    width: 250px; 
+    cursor: pointer;
+}
+.cohete:hover{
+    width: 260px;
+}
+.cohete{
+    height: 410px;
+}
+
+.btn{
+    display: inline-block;
+}
+.btn-blanco{
+    background-color: white; 
+    color: #370a6d;
+    display: block;
+    margin: auto;
+    width: 127px;
+    border-radius: 15px;
+    
+    
+      
+    
+}
+.btn-blanco2{
+    font-size: 15px;
+    color: #370a6d;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.btn-blanco2:hover{
+    background-color: #370a6d;
+    color: white;
+}
+ a{
+     text-decoration: none;
+ }
+h1{
+    color: #E20000;
+    font-size: 35px;
+    
+    
+}
+#contacto p{
+    color: #6d6d6d;
+}
+
+#inicio p{    
+    color: white;
+    border-radius: 50px;
+    border: solid 1px white;
+    font-size: 17px;
+    font-weight: 600;
+    width: 500px;
+    text-align: center;
+    margin-left: 300px;
+}
+#experiencia .parrafo{
+    color: #6d6d6d;
+    margin-left: 256px;
+    
+}
+
+.form-control{
+    border-radius: 16px;
+}
+
+
+#inicio{
+    background-image: url('../images/cohete.svg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#inicio .whatsapp{
+    background-color: #370a6d;
+    color: white;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    padding: 8px 0 15px 0;
+    margin-left: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    bottom: 0px;
+        
+} 
+
+#contacto .whatsapp{
+    background-color: #370a6d;
+    color: white;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    padding: 8px 0 15px 0;
+    margin-left: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    bottom: 0px;
+        
+} 
+
+
+#proyectos .whatsapp{
+    background-color: #370a6d;
+    color: white;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    padding: 8px 0 15px 0;
+    margin-left: 195px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    bottom: 0px;
+        
+}
+#sobremi .whatsapp{
+    background-color: #370a6d;
+    color: white;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    padding: 8px 0 15px 0;
+    margin-left: 213px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    bottom: 0px;
+        
+}
+
+#proyectos h3{
+    font-size: 16px;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    text-transform: uppercase;
+          
+    
+}
+#sobremi h3{
+    font-size: 14px;
+    color: #282828;
+    font-weight: 300;
+}
+
+#sobremi h2{
+    font-size: 24px;
+    color: #fff;
+    margin: 48px 0;
+    margin-left: 78px;
+}   
+
+#sobremi #graficos{
+    background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
+    padding-bottom: 25px;
+    
+    
+    
+    
+    
+}
+ .cir-circulo{
+    margin: 1em auto;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+    width: 256px;
+    height: 256px;
+    margin-left: 700px; 
+    position: absolute;
+    top: 100px;
+    
+    
+    
+    
+    
+}
+ 
+#sobremi h1{
+    margin-left: 79px;
+}
+
+.botontexto{
+    
+    margin-left: 79px;    
+    
+}
+
+#sobremi p{
+    margin-left: 79px;
+
+}
+ .i-img{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    padding: 48px 24px;
+    width: 170px;
+    height: 184px;
+    margin: 10px !important;
+    left: 84px;
+    
+   
+    
+    
+     
+    
+}
+
+
+#experiencia h3{
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 255px;
+    
+}
+#experiencia h2{
+    color:   #370A6D;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 9px;
+    
+}
+
+
+
+#experiencia h4{
+    color:   #370A6D;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 255px;
+
+    
+}
+#experiencia h5{
+    color: #6A6A6A;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 255px;  
+    
+}
+#formacion h4{
+    color:#E20000;
+
+}
+#formacion h2{
+    color:#E20000;
+
+}
+
+.logo-ford{
+    width: 100px;
+    position: absolute;
+    top: 1154px;
+    right: 1053px;
+}
+.logo-ford img{
+    width: 100%;
+   
+}  
+.logo-llorente{
+    width: 120px;
+    position: absolute;
+    top: 1278px;
+    right: 1035px;
+}
+.logo-llorente img{
+    width: 120%;
+   
+}  
+
+a.parrafo{
+    color: #E20000;
+}
+
+#proyectos p{
+    font-size: 14px;
+    color: #6d6d6d;
+
+}
+
+#proyectos footer .fa-github{
+    color: #E20000;
+    font-size: 30px;
+    
+    
+   
+}
+
+#sobremi footer .fa-github{
+    color: #E20000;
+    font-size: 30px;
+    
+    
+   
+}
+
+#inicio footer .fa-github{
+    color: white;
+    font-size: 30px;
+    
+    
+   
+}
+
+#contacto footer .fa-github{
+    color: white;
+    font-size: 30px;
+    
+    
+   
+}
+
+
+#proyectos footer .fa-linkedin-in{
+    background-color:#E20000;
+    color: white;
+    font-size: 23px;
+    border-radius: 80px;
+    width: 32px;
+    height: 31px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    padding-bottom: 5px;
+    
+   
+}
+
+#sobremi footer .fa-linkedin-in{
+    background-color:#E20000;
+    color: white;
+    font-size: 23px;
+    border-radius: 80px;
+    width: 32px;
+    height: 31px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    padding-bottom: 5px;
+    
+   
+}
+#inicio footer .fa-linkedin-in{
+    background-color: white;
+    color: #E20000;
+    font-size: 23px;
+    border-radius: 80px;
+    width: 32px;
+    height: 31px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    padding-bottom: 5px;
+    
+   
+}
+
+#contacto footer .fa-linkedin-in{
+    background-color: white;
+    color: #E20000;
+    font-size: 23px;
+    border-radius: 80px;
+    width: 32px;
+    height: 31px;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    padding-bottom: 5px;
+    
+   
+}
+
+
+
+#proyectos .img-fluid{
+    max-width: 100%;
+    
+}
+#proyectos footer a{
+    color: #E20000;
+    text-decoration: underline;
+}
+
+#sobremi footer a{
+    color: #E20000;
+    text-decoration: underline;
+}
+
+#inicio footer a{
+    color: white;
+    text-decoration: none;
+}
+
+#contacto footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.tex {
+    color: #E20000;
+}
+.whatsapp:hover{
+background-color: #370a6d;
+color: white;  
+}
+
+
+#contacto, #inicio{
+    background-image: url('../images/fondo-contacto.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#proyectos, #sobremi{
+    background-image: url('../images/fondo-proyectos.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+@media (max-width:750px){
+   
+    #contacto {
+        background-image: url('../images/fondo-proyectos.png');
+        
+    }
+
+}
