@@ -18,6 +18,18 @@ body{
     color: #202020;
 }
 
+nav .fa-bars{
+    color: #E20000; 
+
+} 
+
+nav .navbar-toggler{
+    border: 1px solid #E20000;
+
+}  
+
+
+
 .btn-rojo{
     background-color: #E20000; 
     color: white;
@@ -28,21 +40,21 @@ body{
     
     
 }
-.btn-rojo2{
-    background-color: #E20000;
-    color: white;
-    border: 0px;
-    border-radius: 20px;
-}
-.btn-rojo2:hover{
-    background-color: #370a6d;
-    color:white;
-}
 .btn-rojo:hover{
     background-color: #370a6d;
-    color:white;
-
+    color: white;
+    font-weight: 100;
+    border: none;
+    border-radius: 15px;
+       
+   
+    
+    
+    
 }
+
+
+
 .btn-blanco:hover{
     background-color: #370a6d;
     color:white;
@@ -59,9 +71,9 @@ body{
     height: 410px;
 }
 
-.btn{
-    display: inline-block;
-}
+
+
+
 .btn-blanco{
     background-color: white; 
     color: #370a6d;
@@ -162,7 +174,7 @@ h1{
     width: 60px;
     text-align: center;
     padding: 8px 0 15px 0;
-    margin-left: 195px;
+    margin-left: 88px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     position: fixed;
@@ -289,7 +301,7 @@ h1{
 
 
 #experiencia h4{
-    color:   #370A6D;
+    color:#370A6D;
     font-weight: 400;
     font-size: 24px;
     margin-left: 255px;
@@ -337,11 +349,17 @@ a.parrafo{
     color: #E20000;
 }
 
+a.parrafo:hover{
+
+    color:#370A6D;
+}   
+
 #proyectos p{
     font-size: 14px;
     color: #6d6d6d;
 
 }
+
 
 #proyectos footer .fa-github{
     color: #E20000;
@@ -358,6 +376,7 @@ a.parrafo{
     
    
 }
+
 
 #inicio footer .fa-github{
     color: white;
@@ -445,10 +464,16 @@ a.parrafo{
     color: #E20000;
     text-decoration: underline;
 }
-
+#proyectos footer a:hover{
+    color: #370A6D;
+}
 #sobremi footer a{
     color: #E20000;
     text-decoration: underline;
+}
+#sobremi footer a:hover{
+    color: #370a6d;
+    
 }
 
 #inicio footer a{
@@ -456,14 +481,38 @@ a.parrafo{
     text-decoration: none;
 }
 
+#inicio footer a:hover{
+    color: #370a6d;
+
+}
 #contacto footer a{
     color: white;
     text-decoration: none;
 }
-
-.tex {
-    color: #E20000;
+#contacto footer a:hover{
+    color: #370a6d;
+    
 }
+
+.py-4 {
+    color: #E20000;
+
+}  
+
+.py-3 {
+    color: white;
+
+}  
+
+.py-5 {
+    color: white;
+}  
+
+.text{
+    color: #E20000;
+
+}  
+
 .whatsapp:hover{
 background-color: #370a6d;
 color: white;  
@@ -488,7 +537,35 @@ color: white;
    
     #contacto {
         background-image: url('../images/fondo-proyectos.png');
+           
+           
+    }   
+    #inicio footer .fa-github{
+        color: white;
+        font-size: 30px;
         
+        
+       
     }
-
+    #inicio footer a{
+        color: white;
+        text-decoration: none;
+    }
+    #inicio footer .fa-linkedin-in{
+        background-color: white;
+        color: #E20000;
+        font-size: 23px;
+        border-radius: 80px;
+        width: 32px;
+        height: 31px;
+        text-align: center;
+        padding: 5px;
+        margin: 10px;
+        padding-bottom: 5px;
+        
+       
+    }
+        
 }
+
+
