@@ -486,9 +486,13 @@ a.parrafo:hover{
 
 }
 #contacto footer a{
+  
     color: white;
     text-decoration: none;
 }
+
+
+
 #contacto footer a:hover{
     color: #370a6d;
     
@@ -540,32 +544,11 @@ color: white;
            
            
     }   
-    #inicio footer .fa-github{
-        color: white;
-        font-size: 30px;
-        
-        
-       
-    }
-    #inicio footer a{
-        color: white;
-        text-decoration: none;
-    }
-    #inicio footer .fa-linkedin-in{
-        background-color: white;
+    #contacto footer a{
+  
         color: #E20000;
-        font-size: 23px;
-        border-radius: 80px;
-        width: 32px;
-        height: 31px;
-        text-align: center;
-        padding: 5px;
-        margin: 10px;
-        padding-bottom: 5px;
+        text-decoration: none;
         
-       
     }
-        
+    
 }
-
-
