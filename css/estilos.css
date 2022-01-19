@@ -228,7 +228,7 @@ h1{
         background: -ms-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
         background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b82514', endColorstr='#f02f17', GradientType=1 );
-        
+        padding-right: 10px;
         
 }
 #tecnologias h2{
@@ -236,6 +236,7 @@ h1{
     font-size: 24px;
     margin: 48px 0px !important;
     padding-left: 83px;
+   
 
 }
 
@@ -284,11 +285,75 @@ margin-left: 83px;
     height: 182px;
     text-align: center;
     left: 83px;
+   
+    
+    
      
 
 } 
 
+#experiencia h2{
+    color: #370a6d;
+    font-size: 24px;
+    margin: 0px 0px 8px;
+    margin-left: 83px;
 
+}  
+
+#experiencia h3{
+    color: #6a6a6a;
+    font-size: 18px;
+    margin: 0px 0px 8px;
+    margin-left: 83px;
+
+}  
+
+#experiencia h4{
+    color: #370a6d;
+    font-size: 17px;
+    margin: 0px 0px 8px;
+    margin-left: 83px;
+
+}  
+
+#experiencia h5{
+    color: #6a6a6a;
+    font-size: 14px;
+    margin: 0px 0px 8px;
+    margin-left: 83px;
+
+}  
+
+#experiencia p{
+    color: #6a6a6a;
+    font-size: 16px;
+    margin: 0px 0px 8px;
+    margin-left: 83px;
+
+}  
+
+#ford{
+    height: 93.99px;
+    width:93.44px ;
+    margin-left: 112px;
+    margin-top: 18px;
+}
+
+#llorente{
+    height: 139.99px;
+    width:91.44px ;
+    margin-left: 114px;
+    margin-top: -24px;
+    
+}
+#formacion h2{
+    color: #E20000;
+    font-size: 24px;
+    font-family: Montserrat, sans-serif !important;
+    
+    
+
+}   
 a.parrafo{
     color: #E20000;
 }
