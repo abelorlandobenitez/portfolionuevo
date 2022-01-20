@@ -171,7 +171,7 @@ h1{
     width: 60px;
     text-align: center;
     padding: 8px 0 15px 0;
-    margin-left: 88px;
+    margin-left: 201px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     position: fixed;
@@ -185,7 +185,7 @@ h1{
     width: 60px;
     text-align: center;
     padding: 8px 0 15px 0;
-    margin-left: 213px;
+    margin-left: 210px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     position: fixed;
@@ -228,6 +228,7 @@ h1{
         background: -ms-linear-gradient(left, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
         background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b82514', endColorstr='#f02f17', GradientType=1 );
+        
         
         
 }
@@ -283,6 +284,7 @@ margin-left: 83px;
     width: 165.99px;
     margin: 12px;
     height: 182px;
+    margin-bottom: 45px;
     text-align: center;
     left: 83px;
    
@@ -292,9 +294,64 @@ margin-left: 83px;
 
 } 
 
+.fas .fa-comment-alt{
+width: 80px;
+height:80px ;
+
+}   
+#formacion h2{
+    color: #E20000;
+    margin: 0px 0px 8px;
+    font-size: 24px;
+   
+
+}   
+
+#formacion h3{
+    color: #6a6a6a;
+    margin: 0px 0px 8px;
+    font-size: 18px;
+    margin: 0px 0px 8px;
+    margin-left: 67px;
+
+}  
+
+#formacion h4{
+    color:#E20000;
+    margin: 0px 0px 8px;
+    font-size: 17px;
+    margin: 0px 0px 8px;
+    margin-left: 67px;
+}  
+#formacion h5{
+    color:#6a6a6a;
+    margin: 0px 0px 8px;
+    font-size: 14px;
+    margin: 0px 0px 8px;
+    margin-left: 67px;
+}  
+
+#idiomas .tarjeta-idioma{
+    background-color: #370A6D;
+    border-radius: 15px;
+    padding: 40px 0;
+    font-size: 40px;
+
+}
+
+#idioma h2{
+    color: #212529;
+
+
+}   
+li {
+
+    color: #282828;
+    font-size: 14px;
+
+}   
 #experiencia h2{
     color: #370a6d;
-    font-size: 24px;
     margin: 0px 0px 8px;
     margin-left: 83px;
 
@@ -353,7 +410,18 @@ margin-left: 83px;
     
     
 
+}  
+#op{
+       
+
 }   
+#sec{
+    
+
+}   
+
+
+
 a.parrafo{
     color: #E20000;
 }
@@ -607,7 +675,7 @@ color: white;
     width: 60px;
     text-align: center;
     padding: 8px 0 15px 0;
-    margin-left: 104px;
+    margin-left: 108px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     position: fixed;
@@ -623,5 +691,20 @@ color: white;
     height: 256px;
     margin-top: 35px;
     margin-left: 51px;
+}
+
+#sobremi .whatsapp{
+    background-color: #370a6d;
+    color: white;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    padding: 8px 0 15px 0;
+    margin-left: 262px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: fixed;
+    bottom: 0px;
+        
 }
 }
