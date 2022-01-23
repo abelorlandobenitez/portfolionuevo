@@ -29,16 +29,16 @@
                     <div class="collapse navbar-collapse" id="navbarCollapse">
                         <ul class="navbar-nav me-auto mb-2 mb-md-0">
                             <li class="nav-item px-3">
-                                <a class="nav-link" href="index.html">Inicio</a>
+                                <a class="nav-link" href="index.php">Inicio</a>
                             </li>
                             <li class="nav-item px-3">
-                                <a class="nav-link active" href="sobremi.html">Sobre mi</a>
+                                <a class="nav-link active" href="sobremi.php">Sobre mi</a>
                             </li>
                             <li class="nav-item px-3">
-                                <a class="nav-link" href="proyectos.html">Proyectos</a>
+                                <a class="nav-link" href="proyectos.php">Proyectos</a>
                             </li>
                             <li class="nav-item px-3">
-                                <a class="nav-link " href="contacto.html">Contacto</a>
+                                <a class="nav-link " href="contacto.php">Contacto</a>
                             </li>
 
                         </ul>
