@@ -57,7 +57,7 @@
     <main class="container">
         <div class="row">
             <div class="col-12   text-center ">
-                <a href="proyectos.html"><img src="images/cohete.svg" class="cohete" alt=""></a>
+                <a href="proyectos.php"><img src="images/cohete.svg" class="cohete" alt=""></a>
 
 
             </div>
@@ -74,7 +74,7 @@
         </div>
         <div class="row">
             <div class="col-12 pt-2 py-3 text-center">
-                <a class="btn btn-blanco2 shadow" href="proyectos.html">Conoce mis Proyectos</a>
+                <a class="btn btn-blanco2 shadow" href="proyectos.php">Conoce mis Proyectos</a>
 
             </div>
         </div>
